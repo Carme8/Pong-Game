@@ -1,12 +1,12 @@
 # Pong Game
-Pong Game è uno dei primi giochi per computer che siano mai stati creati.
-Questo semplice gioco “simile al tennis” è caratterizzato da due racchette e da una pallina.
-L'obiettivo è sconfiggere l'avversario guadagnando per primo 10 punti.
-Il gioco può essere giocato con due giocatori umani o con un giocatore contro una racchetta controllata dal computer.
-Il gioco è stato originariamente sviluppato da Allan Alcorn e pubblicato nel 1972 da Atari corporations.
-Ben presto, Pong divenne un enorme successo e divenne il primo gioco di successo commerciale;
-Nel 1975, Atari pubblicò un'edizione domestica di Pong (la prima versione era giocata su macchine da sala giochi) che vendette 150.000 unità.
-Oggi Pong è considerato il gioco che ha dato il via all'industria dei videogiochi.
+Pong Game is one of the first computer games ever created.
+This simple “tennis-like” game features two rackets and a ball.
+The goal is to defeat the opponent by earning 10 points first.
+The game can be played with two human players or with one player against a computer-controlled racket.
+The game was originally developed by Allan Alcorn and published in 1972 by Atari corporations.
+Soon, Pong became a huge success and became the first commercially successful game;
+In 1975, Atari released a home edition of Pong (the first version was played on arcade machines) that sold 150,000 units.
+Today, Pong is considered the game that started the video game industry.
 
 # Game Start Window
 
@@ -16,12 +16,16 @@ Oggi Pong è considerato il gioco che ha dato il via all'industria dei videogioc
 
 # For Player A:
 
-To move paddle up press 'W'
+• To move paddle up press 'W'
 
-To move paddle down press 'S'
+• To move paddle down press 'S'
 
 # For Player B:
 
-To move paddle up press 'UP_ARROW'
+• To move paddle up press 'UP_ARROW'
 
-To move paddle down press 'DOWN_ARROW'
+• To move paddle down press 'DOWN_ARROW'
+
+# Dependencies:
+• Python 3.13.0 is required.
+• Pygame module is also required.
