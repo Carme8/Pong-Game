@@ -30,3 +30,5 @@ Today, Pong is considered the game that started the video game industry.
 • Python 3.13.0 is required.
 
 • Pygame module is also required.
+
+![Q](https://github.com/user-attachments/assets/4c87cef2-8299-4ef9-8ff3-a84e36725d18)
